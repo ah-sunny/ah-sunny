@@ -1,7 +1,12 @@
-<p aligen="center">
-<img src="image/gradient-business-linkedin-banner_23-2150091566.jpg">
+<br> 
+<br> <br> 
 
+<p aligen="center" >
+<img style="border-radius: 5px;" src="image/Brown and Gray Simple Personal LinkedIn Banner.jpg">
 </p>
+<br> 
+<br> 
+
 
  # 📈 Current Stats
 
@@ -11,12 +16,12 @@
 
 
  # 👀 Current overview
-  ### 🔭 I’m working - In Programming Hero.
-  ### 🌱 I’m exploring - Advance motion graphics   for web.
+  ### :blush: I’m Expert - In React Front-End development.
+  ### 🌱 I’m exploring - App development.
   ### 👯 I’m looking - To collaborate on open source projects.
-  ### 🤔 I’m trying - To help people learn web development.
-  ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+  ### 🤔 I’m trying - To learn App Development.
+  ### ⚡ Fun fact - I love to make new friends and enjoy together.
 
 
-add remote add in git 
+
 
