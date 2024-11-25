@@ -16,7 +16,7 @@
 
 
  # 👀 Current overview
-  ### :blush: I’m Expert - In React Front-End development.
+  ### :blush: I’m Woeking - To increase React Front-End Development skills.
   ### 🌱 I’m exploring - App development.
   ### 👯 I’m looking - To collaborate on open source projects.
   ### 🤔 I’m trying - To learn App Development.
