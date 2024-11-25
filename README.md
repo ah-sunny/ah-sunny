@@ -22,6 +22,15 @@
   ### 🤔  I’m trying - To learn App Development.
   ### ⚡  Fun fact - I love to make new friends and enjoy together.
 
+<br>
 
+ # :orange_book: Languages
 
+<br>
+<p align="center" > 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+ </p>
+<br>
 
