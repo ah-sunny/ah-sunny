@@ -2,7 +2,7 @@
 <br> <br> 
 
 <p aligen="center" >
-<img style="border-radius: 5px;" src="image/Brown and Gray Simple Personal LinkedIn Banner.jpg">
+<img src="image/Brown and Gray Simple Personal LinkedIn Banner.jpg?user=ah-sunny&border_radius=4.5">
 </p>
 <br> 
 <br> 
