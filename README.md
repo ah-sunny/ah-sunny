@@ -1,7 +1,7 @@
 <br> 
 <br> <br> 
 
-<a herf="https://www.linkedin.com/in/-sunny" aligen="center" >
+<a href="https://www.linkedin.com/in/-sunny" aligen="center" >
 <img src="image/Brown and Gray Simple Personal LinkedIn Banner.jpg?user=ah-sunny&border_radius=4.5">
 </a>
 <br> 
