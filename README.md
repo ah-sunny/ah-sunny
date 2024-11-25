@@ -16,7 +16,7 @@
 <br>
 
  # 👀 Current overview
-  ### :blush:  I’m Woeking - To increase React Front-End Development skills :arrow_double_up:.
+  ### :blush:  I’m Working - To increase React Front-End Development skills :arrow_double_up:.
   ### 🌱  I’m exploring - App development.
   ### 👯  I’m looking - To collaborate on open source projects.
   ### 🤔  I’m trying - To learn App Development.
