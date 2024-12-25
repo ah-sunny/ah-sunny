@@ -50,6 +50,7 @@
  </p>
 <br>
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%; margin: 0; padding: 0; display: block;"/>
 </p>
+
 
