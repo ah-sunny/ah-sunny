@@ -17,7 +17,7 @@
 
 # :coffee: Connect with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sunny/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnycse03@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sunny0096) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&labelColor=black&logo=About.me&logoColor=white&logoColor=e535ab)](https://portfolio-sunny-lyart.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sunny/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnycse03@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sunny0096) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sunny-lyart.vercel.app/)
 
  
 <br>
@@ -25,7 +25,7 @@
  # 👀 Current overview
   ### :blush:  I’m Working - To increase React Front-End Development skills :arrow_double_up:.
   ### 🌱  I’m exploring - App development.
-  ### 👯  I’m looking - To collaborate on open source projects.
+  ### 👯  I’m looking - To collaborate on open-source projects.
   ### 🤔  I’m trying - To learn App Development.
   ### ⚡  Fun fact - I love to make new friends and enjoy together.
 
