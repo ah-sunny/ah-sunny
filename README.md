@@ -33,33 +33,9 @@
 
 # :coffee: Connect with me!
 <!-- only contact info -->
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sunny/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnycse03@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sunny0096) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sunny-lyart.vercel.app/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801601707200) -->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sunny/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnycse03@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sunny0096) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sunny-lyart.vercel.app/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801601707200)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left side content -->
-  <div style="width: 40% ">
-    <a href="https://www.linkedin.com/in/-sunny/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://wa.me/+8801601707200">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="mailto:sunnycse03@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
-    </a>
-    <a href="https://facebook.com/sunny0096">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
-    </a>
-    <a href="https://portfolio-sunny-lyart.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
-    </a>
-  </div>
 
-  <!-- Right side content -->
-  <div style="text-align: center; width: 50% ">
-    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
-  </div>
-</div>
 
  
 <br>
@@ -71,23 +47,23 @@
   ### 🤔  I’m trying - To learn App Development.
   ### ⚡  Fun fact - I love to make new friends and enjoy together. -->
 
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left side content -->
-  <div style="max-width: 45%;">
-    <h1>👀 Current Overview</h1>
-    <h3>😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
-    <h3>🌱 I’m exploring - App development.</h3>
-    <h3>👯 I’m looking - To collaborate on open-source projects.</h3>
-    <h3>🤔 I’m trying - To learn App Development.</h3>
-    <h3>⚡ Fun fact - I love to make new friends and enjoy together.</h3>
-  </div>
-
-  <!-- Right side content -->
-  <div style="text-align: center; max-width: 45%;">
-    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Left side content -->
+    <td>
+      <h1> 👀 Current Overview</h1>
+      <h3>&emsp; 😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
+      <h3>&emsp;🌱 I’m exploring - App development.</h3>
+      <h3>&emsp;👯 I’m looking - To collaborate on open-source projects.</h3>
+      <h3>&emsp;🤔 I’m trying - To learn App Development.</h3>
+      <h3>&emsp;⚡ Fun fact - I love to make new friends and enjoy together.</h3>
+    </td>
+    <!-- Right side content -->
+    <td>
+      <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
+    </td>
+  </tr>
+</table>
 
 
 <br>
@@ -119,23 +95,7 @@
 </p>
 
 
-<table>
-  <tr>
-    <!-- Left side content -->
-    <td>
-      <h1>👀 Current Overview</h1>
-      <h3>😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
-      <h3>🌱 I’m exploring - App development.</h3>
-      <h3>👯 I’m looking - To collaborate on open-source projects.</h3>
-      <h3>🤔 I’m trying - To learn App Development.</h3>
-      <h3>⚡ Fun fact - I love to make new friends and enjoy together.</h3>
-    </td>
-    <!-- Right side content -->
-    <td>
-      <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
-    </td>
-  </tr>
-</table>
+
 
 
 
