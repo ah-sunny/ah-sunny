@@ -1,5 +1,21 @@
 <br> 
-<br> <br> 
+<br> 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&weight=500&duration=7500&pause=1500&color=818181&center=true&vCenter=true&width=670&height=30&lines=Hi++there!%F0%9F%91%8B%F0%9F%8F%BB+Welcome%2C+I'm+Arafat+Sunny+%F0%9F%A5%B7%F0%9F%8F%BD)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&weight=500&duration=9500&pause=2500&deleteSpeed=10&color=818181&center=true&vCenter=true&width=670&height=34&lines=%F0%9F%92%BB+Front-End+Developer+%F0%9F%8E%A8)](https://git.io/typing-svg)
+
+
+---
+
+</div>
+<!-- image store -->
+<!-- <div id="content"  align="center">
+  <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250"/>
+</div> -->
+
+<br> 
 
 <a href="https://www.linkedin.com/in/-sunny" aligen="center" >
 <img src="image/Brown and Gray Simple Personal LinkedIn Banner.jpg?user=ah-sunny&border_radius=4.5">
@@ -16,19 +32,63 @@
 <br>
 
 # :coffee: Connect with me!
+<!-- only contact info -->
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sunny/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnycse03@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sunny0096) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sunny-lyart.vercel.app/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801601707200) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sunny/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnycse03@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sunny0096) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sunny-lyart.vercel.app/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801601707200)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left side content -->
+  <div style="width: 60% ">
+    <a href="https://www.linkedin.com/in/-sunny/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://wa.me/+8801601707200">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    <a href="mailto:sunnycse03@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
+    </a>
+    <a href="https://facebook.com/sunny0096">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+    </a>
+    <a href="https://portfolio-sunny-lyart.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
+    </a>
+  </div>
 
+  <!-- Right side content -->
+  <div style="text-align: center;">
+    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
+  </div>
+</div>
 
  
 <br>
 
- # 👀 Current overview
+ <!-- # 👀 Current overview
   ### :blush:  I’m Working - To increase React Front-End Development skills :arrow_double_up:.
   ### 🌱  I’m exploring - App development.
   ### 👯  I’m looking - To collaborate on open-source projects.
   ### 🤔  I’m trying - To learn App Development.
-  ### ⚡  Fun fact - I love to make new friends and enjoy together.
+  ### ⚡  Fun fact - I love to make new friends and enjoy together. -->
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left side content -->
+  <div style="max-width: 60%;">
+    <h1>👀 Current Overview</h1>
+    <h3>😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
+    <h3>🌱 I’m exploring - App development.</h3>
+    <h3>👯 I’m looking - To collaborate on open-source projects.</h3>
+    <h3>🤔 I’m trying - To learn App Development.</h3>
+    <h3>⚡ Fun fact - I love to make new friends and enjoy together.</h3>
+  </div>
+
+  <!-- Right side content -->
+  <div style="text-align: center;">
+    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
+  </div>
+</div>
+
 
 <br>
 
@@ -51,9 +111,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  </p>
+
+
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%; margin: 0; padding: 0; display: block;"/>
 </p>
+
+
+
+
+
+
 
 
