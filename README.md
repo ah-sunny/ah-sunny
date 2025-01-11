@@ -2,9 +2,9 @@
 <br> 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&weight=500&duration=7500&pause=1500&color=818181&center=true&vCenter=true&width=670&height=30&lines=Hi++there!%F0%9F%91%8B%F0%9F%8F%BB+Welcome%2C+I'm+Arafat+Sunny+%F0%9F%A5%B7%F0%9F%8F%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&weight=500&duration=7500&pause=1500&color=818181&center=true&vCenter=true&width=670&height=19&lines=Hi++there!%F0%9F%91%8B%F0%9F%8F%BB+Welcome%2C+I'm+Arafat+Sunny+%F0%9F%A5%B7%F0%9F%8F%BD)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&weight=500&duration=9500&pause=2500&deleteSpeed=10&color=818181&center=true&vCenter=true&width=670&height=34&lines=%F0%9F%92%BB+Front-End+Developer+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&weight=500&duration=9500&pause=2500&deleteSpeed=10&color=818181&center=true&vCenter=true&width=670&height=20&lines=%F0%9F%92%BB+Front-End+Developer+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 
 ---
@@ -37,7 +37,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Left side content -->
-  <div style="width: 60% ">
+  <div style="width: 40% ">
     <a href="https://www.linkedin.com/in/-sunny/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
@@ -56,7 +56,7 @@
   </div>
 
   <!-- Right side content -->
-  <div style="text-align: center;">
+  <div style="text-align: center; width: 50% ">
     <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
   </div>
 </div>
@@ -74,7 +74,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Left side content -->
-  <div style="max-width: 60%;">
+  <div style="max-width: 45%;">
     <h1>👀 Current Overview</h1>
     <h3>😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
     <h3>🌱 I’m exploring - App development.</h3>
@@ -84,7 +84,7 @@
   </div>
 
   <!-- Right side content -->
-  <div style="text-align: center;">
+  <div style="text-align: center; max-width: 45%;">
     <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
   </div>
 </div>
