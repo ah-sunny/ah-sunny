@@ -60,7 +60,7 @@
     </td>
     <!-- Right side content -->
     <td>
-      <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
+      <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="350" height="250" alt="GIF">
     </td>
   </tr>
 </table>
@@ -101,7 +101,9 @@
 
 
 
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"> -->
 
+ <img  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="350" height="250" alt="GIF">
 
 
 
