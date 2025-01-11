@@ -119,6 +119,24 @@
 </p>
 
 
+<table>
+  <tr>
+    <!-- Left side content -->
+    <td>
+      <h1>👀 Current Overview</h1>
+      <h3>😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
+      <h3>🌱 I’m exploring - App development.</h3>
+      <h3>👯 I’m looking - To collaborate on open-source projects.</h3>
+      <h3>🤔 I’m trying - To learn App Development.</h3>
+      <h3>⚡ Fun fact - I love to make new friends and enjoy together.</h3>
+    </td>
+    <!-- Right side content -->
+    <td>
+      <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250" alt="GIF">
+    </td>
+  </tr>
+</table>
+
 
 
 
