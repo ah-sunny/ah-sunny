@@ -88,12 +88,12 @@
 
  </p>
 
+<br>
+
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I’m always excited to meet new people!</b> If you’re looking to connect or just want to say hello, <b>I’d be delighted to chat and get to know you!!</b> ✌🏼</em>
 <div>
 
-
-<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%; margin: 0; padding: 0; display: block;"/>
 </p>
