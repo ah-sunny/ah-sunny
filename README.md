@@ -52,11 +52,11 @@
     <!-- Left side content -->
     <td>
       <h1> 👀 Current Overview</h1>
-      <h3>&emsp; 😊 I’m Working - To increase React Front-End Development skills 🔼.</h3>
-      <h3>&emsp;🌱 I’m exploring - App development.</h3>
-      <h3>&emsp;👯 I’m looking - To collaborate on open-source projects.</h3>
-      <h3>&emsp;🤔 I’m trying - To learn App Development.</h3>
-      <h3>&emsp;⚡ Fun fact - I love to make new friends and enjoy together.</h3>
+      <h3>😊 I’m Working - To improve React front-end skills.</h3>
+      <h3>🌱 I’m exploring - App development.</h3>
+      <h3>👯 I’m looking - To collaborate on open-source projects.</h3>
+      <h3>🤔 I’m trying - To learn App Development.</h3>
+      <h3>⚡ Fun fact - I love to make new friends and enjoy together.</h3>
     </td>
     <!-- Right side content -->
     <td>
